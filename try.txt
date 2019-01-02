@@ -5,3 +5,4 @@ Add remote dengan git remote add origin https://github.com/anggitahp/Day3_Latiha
 Kirim semua perubahan dengan git push -u origin master
 Ubah isi file yang ada di GitHub langsung di web-nya, kemudian commit.
 Dapatkan perubahan yang ada ke local dengan git pull origin master.
+Anggitahp
