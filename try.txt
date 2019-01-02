@@ -1,7 +1,7 @@
 Bagian 2. Melatih push dan pull
 Buatlah repositori GitHub baru bernama sama dengan repositori di local. Kemudian langsung Create repository.
 Bacalah petunjuk yang ada pada halaman utama repositori kosong tersebut.
-Add remote dengan git remote add origin GIT HTTPS URL
+Add remote dengan git remote add origin https://github.com/anggitahp/Day3_LatihanGit.git
 Kirim semua perubahan dengan git push -u origin master
 Ubah isi file yang ada di GitHub langsung di web-nya, kemudian commit.
 Dapatkan perubahan yang ada ke local dengan git pull origin master.
